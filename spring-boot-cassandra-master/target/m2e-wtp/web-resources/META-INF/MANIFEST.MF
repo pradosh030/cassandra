@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cassandra
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pradosh.Mohanty
+Implementation-Vendor-Id: cassandra
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cassandra
+Created-By: Maven Integration for Eclipse
+
