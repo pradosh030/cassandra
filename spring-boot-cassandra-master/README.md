@@ -20,3 +20,6 @@ CREATE TABLE User(
 
 We are done with Table creation and environment setup now follow above code for development
 
+
+http://localhost:8080/cassandra/
+
